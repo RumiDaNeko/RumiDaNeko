@@ -77,6 +77,10 @@ Having fun? Ask a friend to do the next move!
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### My github Stats:
