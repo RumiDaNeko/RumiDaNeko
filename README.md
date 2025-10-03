@@ -67,6 +67,7 @@ Having fun? Ask a friend to do the next move!
 - 🌱 I am currently an university student, in computer science
 - 🏆 2025 Goals: Keeping my hosting service, cloudcode running!
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/470047132670361610)
+- 📰 Follow my [blog](https://blog.harumi.io.vn)
 -   <img width='15px' src="https://camo.githubusercontent.com/4ded898001603fdc58758569bec5de43d5921d0611b8388e525f0a69f1d2a998/68747470733a2f2f692e696d6775722e636f6d2f334b79667543752e706e67"> I came from vietnam, a proud Vietnamese
 - 😄 Pronouns: He/Him
 
