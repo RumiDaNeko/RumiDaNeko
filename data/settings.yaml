@@ -39,10 +39,10 @@ issues:
   link: "https://github.com/{repo}/issues/new?{params}"
   move:
     body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
-    title: "Chess: Move {source} to {dest}"
+    title: "Chess:%20Move%20{source}%20to%20{dest}"
   new_game:
     body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
-    title: "Chess: Start new game"
+    title: "Chess:%20Start%20new%20game"
 
 markers:
   board:
