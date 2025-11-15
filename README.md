@@ -69,7 +69,7 @@ Having fun? Ask a friend to do the next move!
 
 # While all the fun, here some info about me
 
-<img align="right" alt="wuguri" height="160px" src="https://cdn.discordapp.com/attachments/1349692251197935727/1423756947168952340/1.jpg?ex=68e1787c&is=68e026fc&hm=e592bebc97cbb0763aa646731b7be46aa9d61bc44357e76029a171cfc6de0292&" />
+<img align="right" alt="wuguri" height="160px" src="https://media.harumi.io.vn/b1b309ef51130584278d71550927df9d.webp" />
 
 - 🌱 I am currently an university student, in computer science
 - 🏆 2025 Goals: Keeping my hosting service, cloudcode running!
